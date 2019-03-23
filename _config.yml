@@ -35,6 +35,7 @@ navigation_header:
   Home: /
   About: /about/
   Blog: /blog/
+  Products: /products/
 
 # Footer nav
 navigation_footer:
